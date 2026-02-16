@@ -70,7 +70,7 @@ In the [TreeListView](https://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.TreeLi
 - [Data Grid for WPF - How to Specify Edit Form Settings](https://github.com/DevExpress-Examples/wpf-data-grid-specify-edit-form-settings)
 - [Data Grid for WPF - How to Pause Data Updates in the Edit Form](https://github.com/DevExpress-Examples/wpf-data-grid-edit-form-pause-updates)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-data-grid-edit-form-related-cells&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-data-grid-edit-form-related-cells&~~~was_helpful=no)
 
